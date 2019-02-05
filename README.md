@@ -171,4 +171,4 @@ The result it will be:
     ```
 
 -   Then move into the repo (cd dncs-lab), finally run the command `vagrant up --provision` to create the virtual topology.
--   Finally to move on each host run the command: `vagrant host-1-a` (or host-1-b or host-2-c )
+-   Finally in order to run commands, for example from host-1-a, type: `vagrant ssh host-1-a' (The same could be done for host-1-b or host-2-c) 
