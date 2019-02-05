@@ -170,5 +170,5 @@ The result it will be:
     ~$ git clone https://github.com/SalaniUNITN/dncs-lab.git
     ```
 
--   Then move into the repo (cd DNCS-LAB2018), finally run the command `vagrant up --provision` to create the virtual topology.
+-   Then move into the repo (cd dncs-lab), finally run the command `vagrant up --provision` to create the virtual topology.
 -   Finally to move on each host run the command: `vagrant host-1-a` (or host-1-b or host-2-c )
