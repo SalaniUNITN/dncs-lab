@@ -167,7 +167,7 @@ The result it will be:
 - Clone this repository
 
     ```bash
-    ~$ git clone 
+    ~$ git clone https://github.com/SalaniUNITN/dncs-lab.git
     ```
 
 -   Then move into the repo (cd DNCS-LAB2018), finally run the command `vagrant up --provision` to create the virtual topology.
